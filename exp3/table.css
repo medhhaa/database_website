@@ -1,0 +1,48 @@
+a{
+    text-decoration: none;
+}
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(73, 72, 72);
+    color:aliceblue;
+}
+#emp {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+  
+#emp td, #emp th {
+    border: 1px solid #ddd;
+    padding: 5px 6px;
+    text-align:center;
+}
+  
+input[type=text] {
+    width: 30%;
+    font-size: 15px;
+    padding: 10px 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 4px;
+    border: 3px solid rgb(17, 219, 255);
+}
+button {
+  background-color: #1dbbfa;
+  color: white;
+  padding: 10px 15px;
+  font-size: 15px;
+  border-radius: 10px;
+  text-align: center;
+  text-decoration: none;
+}
+.btn-edit{
+  background-color: rgb(4, 209, 14);
+}
+.btn-del{
+  background-color: red;
+}
+button:hover {
+  background-color: rgb(0, 247, 255);
+}
+

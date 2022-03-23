@@ -1,0 +1,28 @@
+*{
+    margin: 10px;    
+}
+form{
+    margin: 15px;
+}
+#address{
+    width: 40%;
+}
+h5{
+    margin: 10px;
+}
+button {
+    padding: 10px 15px;
+    font-size: 15px;
+    text-align: center;
+    text-decoration: none;
+  }
+
+.btn-view{
+    background-color: rgb(255, 251, 13);
+    border-radius: 10px;
+}
+
+.btn-add{
+    background-color: aqua;
+    border-radius: 10px;
+}
